@@ -1,0 +1,29 @@
+{
+    "name": "horde/themes-hochschule",
+    "description": "Horde Hochschule Theme",
+    "type": "horde-theme",
+    "homepage": "https://www.horde.org/apps/horde",
+    "license": "LGPL-2",
+    "authors": [
+        {
+            "name": "Ralf Lang",
+            "email": "lang@b1-systems.de",
+            "role": "lead"
+        }
+    ],
+    "time": "2021-06-09",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://horde-satis.maintaina.com/"
+        }
+    ],
+    "require": {
+        "horde/horde-installer-plugin": "*",
+        "php": "^7",
+        "horde/horde": "*"
+    },
+    "require-dev": {},
+    "suggest": {},
+    "autoload": []
+}
