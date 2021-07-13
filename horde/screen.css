@@ -394,7 +394,7 @@ input[disabled], input[disabled]:hover, textarea[disabled], option[disabled] {
 }
 
 pre, code, .fixed, table.lineNumbered * {
-    font-family: Menlo,Consolas,"Lucida Console","DejaVu Sans Mono",monospace;
+    font-family: Arial,"DejuVu Sans",sans-serif;
 }
 
 /* Styles for email-like messages. */
